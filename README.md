@@ -1,4 +1,5 @@
 # springboot-oauth2-security
+
 Springboot project with Google oauth2 security
 
 1. **Configure Google OAuth2 Authorization Flow to obtain the access token.**
